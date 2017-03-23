@@ -1,0 +1,18 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "A demo project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Steven Rodriguez",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.1.5",
+    "express": "^4.15.2",
+    "lodash": "^4.17.4",
+    "marked": "^0.3.6",
+    "socket.io": "^1.7.3"
+  }
+}
